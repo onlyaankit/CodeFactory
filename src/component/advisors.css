@@ -1,0 +1,52 @@
+/* src/Advisors.css */
+.advisors-section {
+    text-align: center;
+    color: white;
+    background-color: #1a1a2e;
+    padding: 20px;
+  }
+  
+  .advisors-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .advisor-card {
+    background-color: #16213e;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .advisor-image {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    color: white;
+    margin: 0 5px;
+    font-size: 20px;
+  }
+  
+  .team-button {
+    background-color: #6c63ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .team-button:hover {
+    background-color: #5753c9;
+  }
+  

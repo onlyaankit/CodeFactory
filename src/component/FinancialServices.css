@@ -1,0 +1,38 @@
+
+.financial-services {
+    padding: 20px;
+    background-color: #1c1c2d;
+  }
+  
+  .financial-services h1,
+  .financial-services h2 {
+    text-align: center;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .services-list {
+    flex: 1;
+  }
+  
+  .service-item {
+    margin-bottom: 10px;
+  }
+  
+  .chart {
+    flex: 1;
+    padding-left: 20px;
+  }
+  
+  .chart ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .chart ul li {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,68 @@
+/* ServicesPage.css */
+
+.services-page {
+    background-color: #1c1c2d;
+    color: white;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.services-header {
+    margin-bottom: 20px;
+}
+
+.services-subtitle {
+    color: #ab82ff;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.services-header h1 {
+    font-size: 32px;
+    margin: 0;
+}
+
+.services-header p {
+    font-size: 18px;
+    color: #cfcfcf;
+}
+
+.services-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.services-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.service-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.service-item p {
+    margin: 0;
+}
+
+.arrow {
+    color: #ab82ff;
+    font-size: 24px;
+}
+
+.services-image img {
+    width: 100%;
+    max-width: 300px;
+    opacity: 0.8;
+}

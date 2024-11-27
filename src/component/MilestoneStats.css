@@ -1,0 +1,26 @@
+/* MilestoneStats.css */
+
+.milestone-stats {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1c1c2d;
+    padding: 20px 0;
+    color: white;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-label {
+    color: #ab82ff;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.stat-value {
+    font-size: 36px;
+    font-weight: 700;
+    color: #cfcfcf;
+}
